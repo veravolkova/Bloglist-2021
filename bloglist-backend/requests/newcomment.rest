@@ -1,0 +1,7 @@
+post http://localhost:3000/api/blogs/5ea49e5796039d35e4e26604/comments
+Content-Type: application/json
+Authorization: bearer eyJ...lWQ
+
+  {
+    "commentText":"test comment"   
+  }

@@ -1,0 +1,10 @@
+post http://localhost:3001/api/blogs
+Content-Type: application/json
+Authorization: bearer token
+
+  {
+    "title":"Full stack open 2020",
+    "author":"University of Helsinki",
+    "url": "https://fullstackopen.com",
+    "userId":"5ea48b263938db26bca1f32d"
+  }
