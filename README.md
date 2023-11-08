@@ -6,7 +6,6 @@
 ## General info
 A simple single-page bloglist app, exercise from part 7, Full Stack Open course by University of Helsinki. 
 Lists blogs, users, blogs per user. Has like, comment and remove functionality. 
-The app is available at https://veras-bloglist.herokuapp.com/
 
 <img src="https://drive.google.com/uc?export=view&id=1bZ2mT2CqT0Q8gXAE-VKihHQ_fIVRcwGK" alt="Bloglist Screenshot1" width="530" height="350">
 
